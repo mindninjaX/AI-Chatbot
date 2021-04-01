@@ -163,7 +163,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Resources & Acknowledgements
 
-- [Video Instructions](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
 - [VS Code](https://code.visualstudio.com/)
 - [Python Setup](https://www.python.org/downloads/)
 - [Python Documentation](https://docs.python.org/)
